@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#111D2E"/><stop offset="1" stop-color="#101722"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#79D9C3" stop-opacity=".13"/><stop offset="1" stop-color="#79D9C3" stop-opacity="0"/></radialGradient>
+    <linearGradient id="orb" x1="837" y1="117" x2="1011" y2="310" gradientUnits="userSpaceOnUse"><stop stop-color="#A7F0DA"/><stop offset=".48" stop-color="#5B9F9D"/><stop offset="1" stop-color="#243E52"/></linearGradient>
+    <linearGradient id="ring" x1="740" y1="300" x2="1110" y2="140" gradientUnits="userSpaceOnUse"><stop stop-color="#81DCC7" stop-opacity=".1"/><stop offset=".5" stop-color="#A4E7D5"/><stop offset="1" stop-color="#81DCC7" stop-opacity=".15"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 H 0 V 40" stroke="#B0D6DC" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="440" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="440" rx="20" fill="url(#grid)"/>
+  <ellipse cx="933" cy="220" rx="285" ry="240" fill="url(#glow)"/>
+  <path d="M64 61H93" stroke="#8EE1CA" stroke-width="2"/>
+  <text x="107" y="66" fill="#9EAFBF" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="3">A PERSONAL SPACE</text>
+  <text x="64" y="207" fill="#F2F5F7" font-family="Segoe UI,Arial,sans-serif" font-size="90" font-weight="650" letter-spacing="-4">Jeonggyu<tspan fill="#91E2CD">.</tspan></text>
+  <text x="69" y="257" fill="#B6C5D2" font-family="Segoe UI,Arial,sans-serif" font-size="22" letter-spacing=".1">A little curiosity. A new possibility.</text>
+  <text x="69" y="370" fill="#788D9F" font-family="Consolas,monospace" font-size="12" letter-spacing="2">NOTES / IDEAS / THINGS I MAKE</text>
+  <circle cx="931" cy="217" r="146" stroke="#8BCBBB" stroke-opacity=".13" stroke-dasharray="3 9"/>
+  <ellipse cx="931" cy="217" rx="190" ry="69" transform="rotate(-31 931 217)" stroke="#81DCC7" stroke-opacity=".16"/>
+  <circle cx="931" cy="217" r="88" fill="url(#orb)"/>
+  <ellipse cx="931" cy="217" rx="190" ry="69" transform="rotate(-31 931 217)" stroke="url(#ring)" stroke-width="1.5" stroke-dasharray="400 450"/>
+  <circle cx="1061" cy="139" r="6" fill="#B2EEDC"/>
+  <circle cx="810" cy="323" r="3" fill="#8BB4C5"/>
+  <path d="M1066 302v14m-7-7h14" stroke="#9BD8CC" stroke-width="1.5"/>
+  <path d="M803 110v10m-5-5h10" stroke="#91A9BF"/>
+  <circle cx="1100" cy="80" r="1.5" fill="#A9BDCC"/>
+  <circle cx="757" cy="212" r="1.5" fill="#A9BDCC"/>
+  <text x="1134" y="378" text-anchor="end" fill="#6E8797" font-family="Consolas,monospace" font-size="11" letter-spacing="2">JEONGGYU11</text>
+</svg>
